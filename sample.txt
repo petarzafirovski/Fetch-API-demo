@@ -1,0 +1,1 @@
+Sample .txt file for Fetch api demo testing purpose

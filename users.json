@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Michael Jordan",
+        "email":"michael_jordan@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"LeBron James",
+        "email":"lebron_james@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"Kobe Bryant",
+        "email":"kobe_bryant@gmail.com"
+    }
+]
